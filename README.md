@@ -2,7 +2,7 @@
 
 **HED Implementation using OpenCV for Edge Detection**
 
-Output
+<strong><center>Output</center></strong>
 
-<img src="testdata/comparison/output_flowers.png">Left: Original Image, Right: Edge Detection using
-HED</img>
+<center><img src="testdata/comparison/output_flowers.png">Left: Original Image, Right: Edge Detection using
+HED</img></center>
