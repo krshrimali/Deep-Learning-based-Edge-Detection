@@ -4,5 +4,5 @@
 
 Output
 
-<img src="output.png">Left: Original Image, Right: Edge Detection using
+<img src="testdata/comparison/output_flowers.png">Left: Original Image, Right: Edge Detection using
 HED</img>
